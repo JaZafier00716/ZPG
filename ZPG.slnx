@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="ZPG/ZPG.vcxproj" />
+  <Project Path="ZPG/ZPG.vcxproj" Id="86328228-4edd-40d0-a471-1c2a08764492" />
 </Solution>
